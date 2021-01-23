@@ -13,6 +13,7 @@ public class EMF_Creator {
      */
     public static void startREST_TestWithDB() {
         System.setProperty("IS_INTEGRATION_TEST_WITH_DB", "testing");
+    
     }
 
     /*
